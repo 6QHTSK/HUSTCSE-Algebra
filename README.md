@@ -21,7 +21,7 @@ pip install sympy tqdm numpy matplotlib
 
 这部分的代码大部分来自于『是Yu欸』的[【代数学作业1完整版-python实现GNFS一般数域筛】构造特定的整系数不可约多项式：涉及素数、模运算和优化问题](https://blog.csdn.net/wtyuong/article/details/135102439)，遵循 CC 4.0 BY-SA 版权协议。
 
-没有附带测 $` c_4 `$的代码，自己找到一个比较好的skew，拉出来开一个python测两个就行。
+没有附带测 $` c_4 `$的代码，如有需要可以自己找到一个比较好的skew，然后把记事本里面的代码拉出来，额外开一个python文件，给$c_4$不同取值去测以下趋势就行。
 
 ## T7 - 大整数分解
 
@@ -35,7 +35,7 @@ pip install sympy tqdm numpy matplotlib
 
 我使用了它的代码，并利用`sympy`减少了它的代码复杂度。
 
-P.S. 有谁用GNFS写出来的，我卡在怎么用$`b^4f(a/b)`$与$`bg(a/b)`$构造平方数上了，如果有人写出来了烦请赐教。
+P.S. 想问一下有谁用GNFS的方法写出来的，我卡在怎么用$`b^4f(a/b)`$与$`bg(a/b)`$构造平方数上了，如果有人写出来了烦请赐教。
 
 ## 题外话
 
