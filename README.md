@@ -31,6 +31,8 @@ pip install sympy tqdm numpy matplotlib
 
 运行时间：约20~30分钟，单线程。
 
+注意，本题使用的是二次筛法而非数域筛法，有点偏题了，各位慎重参考。能力有限，我还是不太能理解数域筛法最后的线性方程组求解步骤。
+
 这部分的代码很大部分来自于[MattInglisWhalen/FastFactor](https://github.com/MattInglisWhalen/FastFactor)，遵循 MIT 版权协议。
 
 我使用了它的代码，并利用`sympy`减少了它的代码复杂度。
